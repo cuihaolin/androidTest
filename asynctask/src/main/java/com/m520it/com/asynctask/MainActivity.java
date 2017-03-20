@@ -1,4 +1,4 @@
-package com.m520it.com.myapplication;
+package com.m520it.com.asynctask;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
